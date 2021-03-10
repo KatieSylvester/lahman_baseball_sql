@@ -1,11 +1,10 @@
 ## Lahman Baseball Database Exercise
-- this data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
-- you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
 --------------------------------------------------------------------------
 
 ### We were tasked with using SQL queries to find answers to the questions below.
 
-**Questions for Data Exploration and Analysis**
+- this data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
+- you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
 
 1. What range of years for baseball games played does the provided database cover? 
 
