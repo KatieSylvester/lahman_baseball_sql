@@ -1,5 +1,6 @@
-## Lahman Baseball Database Exercise
---------------------------------------------------------------------------
+## Lahman Baseball Database Analysis
+
+---------------------------------------------------------------------------
 
 ### We were tasked with using SQL queries to find answers to the questions below.
 
