@@ -7,6 +7,7 @@
 - you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
 
 ---------------------------------------------------------------------------
+Questions for data exploration and analysis:
 
 1. What range of years for baseball games played does the provided database cover? 
 
