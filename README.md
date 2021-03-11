@@ -8,6 +8,11 @@
 
 ![baseball](../images/baseball.jpg)
 
+<p align="center">
+  <img src="../images/baseball.jpg" width="350" title="baseball">
+  <img src="../images/baseball.jpg" width="350" alt="baseball">
+</p>
+
 ---------------------------------------------------------------------------
 Questions for data exploration and analysis:
 
