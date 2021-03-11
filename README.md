@@ -6,11 +6,11 @@
 - this data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
 - you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
 
-![baseball](../images/baseball.jpg)
+![baseball](../images/baseball2.jpeg)
 
 <p align="center">
-  <img src="../images/baseball.jpg" width="350" title="baseball">
-  <img src="../images/baseball.jpg" width="350" alt="baseball">
+  <img src="../images/baseball2.jpeg" width="350" title="baseball">
+  <img src="../images/baseball2.jpeg" width="350" alt="baseball">
 </p>
 
 ---------------------------------------------------------------------------
