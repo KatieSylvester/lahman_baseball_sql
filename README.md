@@ -8,11 +8,6 @@
 
 ![baseball](../main/images/baseball2.jpeg)
 
-<p align="center">
-  <img src="../images/baseball2.jpeg" width="350" title="baseball">
-  <img src="../images/baseball2.jpeg" width="350" alt="baseball">
-</p>
-
 ---------------------------------------------------------------------------
 Questions for data exploration and analysis:
 
