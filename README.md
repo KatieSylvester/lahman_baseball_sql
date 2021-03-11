@@ -9,7 +9,7 @@
 ![baseball](../main/images/baseball2.jpeg)
 
 ---------------------------------------------------------------------------
-Questions for data exploration and analysis:
+### Questions for data exploration and analysis:
 
 1. What range of years for baseball games played does the provided database cover? 
 
@@ -53,7 +53,7 @@ Questions for data exploration and analysis:
 
 ---------------------------------------------------------------------------
 
-#### How to Read This Repo
+### How to Read This Repo
 
 All sql scripts are in the scripts file.
 
