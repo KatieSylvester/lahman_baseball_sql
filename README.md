@@ -7,8 +7,8 @@
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies](#technologies)
-* [Data Exploration Questions](#data)
 * [Files in this Repository](#files)
+* [Data Exploration Questions](#data)
 <br>
 <br>
 
@@ -22,6 +22,11 @@ We were tasked with utilizing SQL queries to analyze the Lahman Baseball Databas
 ## <a name="technologies"></a>Technologies
 Project is created with:
 * SQL (Postgres)
+<br>
+<br>
+
+## <a name="files"></a>Files in this Repository
+All SQL scripts can be found in the Complete_Lahman_Scripts.sql file.
 <br>
 <br>
 
@@ -63,9 +68,5 @@ Project is created with:
     </ol>
 
 1. It is thought that since left-handed pitchers are more rare, causing batters to face them less often, that they are more effective. Investigate this claim and present evidence to either support or dispute this claim. First, determine just how rare left-handed pitchers are compared with right-handed pitchers. Are left-handed pitchers more likely to win the Cy Young Award? Are they more likely to make it into the hall of fame?
-<br>
-<br>
 
-## <a name="files"></a>Files in this Repository
-All SQL scripts can be found in the Complete_Lahman_Scripts.sql file.
 
