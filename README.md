@@ -1,9 +1,8 @@
 ## Lahman Baseball Database Analysis
 
-- this data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
-- you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
-
 ![baseball](../main/images/baseball2.jpeg)
+<br>
+<br>
 
 ## Table of Contents
 * [General Information](#general-information)
@@ -15,6 +14,8 @@
 
 ## <a name="general-information"></a>General Information
 We were tasked with utilizing SQL queries to analyze the Lahman Baseball Database. 
+- this data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
+- you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
 <br>
 <br>
 ## <a name="technologies"></a>Technologies
