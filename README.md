@@ -28,8 +28,8 @@ Project is created with:
 ## <a name="files"></a>Files in this Repository
 All SQL scripts can be found in the Complete_Lahman_Scripts.sql file.
 <br>
-
-
+<br>
+<br>
 
 ## <a name="data"></a>Data Exploration Questions
 1. What range of years for baseball games played does the provided database cover? 
