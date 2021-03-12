@@ -1,16 +1,29 @@
 ## Lahman Baseball Database Analysis
 
-
-#### We were tasked with utilizing SQL queries to analyze the Lahman Baseball Database. 
-
 - this data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
 - you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
 
 ![baseball](../main/images/baseball2.jpeg)
 
----------------------------------------------------------------------------
-### Questions for data exploration and analysis:
+## Table of Contents
+* [General Information](#general-information)
+* [Technologies](#technologies)
+* [Data Exploration Questions](#data)
+* [Files in this Repository](#files)
+<br>
+<br>
 
+## <a name="general-information"></a>General Information
+We were tasked with utilizing SQL queries to analyze the Lahman Baseball Database. 
+<br>
+<br>
+## <a name="technologies"></a>Technologies
+Project is created with:
+* SQL (Postgres)
+<br>
+<br>
+
+## <a name="data"></a>Data Exploration Questions
 1. What range of years for baseball games played does the provided database cover? 
 
 1. Find the name and height of the shortest player in the database. How many games did he play in? What is the name of the team for which he played?
@@ -35,7 +48,6 @@
 
 8. Which managers have won the TSN Manager of the Year award in both the National League (NL) and the American League (AL)? Give their full name and the teams that they were managing when they won the award.
 
-
 **Open-ended questions**
 
 10. Analyze all the colleges in the state of Tennessee. Which college has had the most success in the major leagues. Use whatever metric for success you like - number of players, number of games, salaries, world series wins, etc. 
@@ -48,12 +60,10 @@
       <li>Do teams that win the world series see a boost in attendance the following year? What about teams that made the playoffs? Making the playoffs means either being a division winner or a wild card winner.</li>
     </ol>
 
-
 1. It is thought that since left-handed pitchers are more rare, causing batters to face them less often, that they are more effective. Investigate this claim and present evidence to either support or dispute this claim. First, determine just how rare left-handed pitchers are compared with right-handed pitchers. Are left-handed pitchers more likely to win the Cy Young Award? Are they more likely to make it into the hall of fame?
+<br>
+<br>
 
----------------------------------------------------------------------------
-
-### How to Read This Repo
-
+## <a name="files"></a>Files in this Repository
 All sql scripts are in the scripts file.
 
