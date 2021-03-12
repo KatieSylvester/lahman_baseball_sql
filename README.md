@@ -18,6 +18,7 @@ We were tasked with utilizing SQL queries to analyze the Lahman Baseball Databas
 - you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
 <br>
 <br>
+
 ## <a name="technologies"></a>Technologies
 Project is created with:
 * SQL (Postgres)
