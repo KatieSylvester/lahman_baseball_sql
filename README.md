@@ -25,6 +25,7 @@ Project is created with:
 ## <a name="files"></a>Files in this Repository
 All SQL scripts can be found in the Complete_Lahman_Scripts.sql file.
 <br>
+<br>
 
 ## <a name="analysis"></a>Analysis
 This is a complex and large dataset. I intially explored the database to determine the range of years it covers, the number of teams, number of players, etc.  I discovered that the shortest player in the MLB was Eddie Gaedel who was only 3'7"!  He only played one game for the St. Louis Browns and his uniform number was "1/8".  
