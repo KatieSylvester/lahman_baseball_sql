@@ -10,25 +10,20 @@
 * [Files in this Repository](#files)
 * [Analysis](#analysis)
 <br>
-<br>
 
 ## <a name="general-information"></a>General Information
 We were tasked with utilizing SQL queries to analyze the Lahman Baseball Database. 
 - this data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
 - you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
 <br>
-<br>
 
 ## <a name="technologies"></a>Technologies
 Project is created with:
 * SQL (Postgres)
 <br>
-<br>
 
 ## <a name="files"></a>Files in this Repository
 All SQL scripts can be found in the Complete_Lahman_Scripts.sql file.
-<br>
-<br>
 <br>
 
 ## <a name="analysis"></a>Analysis
